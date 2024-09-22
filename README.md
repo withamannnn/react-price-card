@@ -1,8 +1,20 @@
-# React + Vite
+# Responsive Price Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive price card component built using **React** and **Tailwind CSS**. This project demonstrates how to create a clean, modern price card UI that is fully responsive across different screen sizes.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design, adapting to mobile, tablet, and desktop devices.
+- Simple and modern UI, suitable for any website or application.
+- Built using React and Tailwind CSS for fast and flexible development.
+
+## Tech Stack
+
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+
+## Customization
+You can easily modify the price card by editing the component files in the src/components folder. Tailwind CSS classes make it simple to adjust styles, spacing, and responsiveness.
+
+## Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
